@@ -1,3 +1,3 @@
-# EPFL-tandem-rate
+# EPFL-tandem-race
 
 Code is coming soon 
